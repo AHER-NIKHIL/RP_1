@@ -1,0 +1,13 @@
+.main-nav{
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.content{
+  color: gainsboro;
+}
+.nav{
+  text-decoration: none;
+  color:black;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
